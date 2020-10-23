@@ -56,3 +56,8 @@
 
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 
+### Django
+
+* [Django Cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf) - Mercurytide (PDF)
+* [Django Reference Sheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf) - cheat-sheets.org (PDF)
+
